@@ -1,6 +1,6 @@
 # 🧠 Plagiarism Detector Web App
 
-This project is an intelligent web-based system that leverages Natural Language Processing (NLP) and Machine Learning to detect potential plagiarism in user-submitted content. Designed for simplicity and functionality, the system provides a responsive web interface powered by Flask and a powerful backend model trained on TF-IDF features.
+- This project is an intelligent web-based system that leverages Natural Language Processing (NLP) and Machine Learning to detect potential plagiarism in user-submitted content. Designed for simplicity and functionality, the system provides a responsive web interface powered by Flask and a powerful backend model trained on TF-IDF features.
 ---
 
 ## 🚀 Features
